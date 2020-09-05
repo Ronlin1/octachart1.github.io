@@ -1,0 +1,32 @@
+h1 {font-style: oblique;
+    text-align: center;
+
+}
+
+.storyBox {
+    background-color: chocolate;
+    display: none;
+}
+.country {
+    font-weight: bold;
+}
+form {margin: auto;
+     text-align: center;
+     font-size: 24px;
+}
+#storyBox {
+    background: #FFC125;
+    color: #5E2612;
+    padding: 10px;
+    visibility: hidden;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    height: 205px;
+    word-wrap: break-word;
+                
+}
+.myStory {margin: auto;
+          text-align: center;
+                 
+}
